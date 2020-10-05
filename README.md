@@ -5,9 +5,9 @@
 I'm learning programming to get a job as a software engineer currently. Web development has taken my interest 
 at first sight. As a hobby I learn game development and try to make some games on my own. 
 
-Feel free to look at my project and write if you have any ideas.
-
 ---
+
+Feel free to look at my project and write if you have any ideas: <img align="left" width="150" height="150" src="https://octodex.github.com/maxtocat/">
 
 - 🔭 I’m currently working on [this](https://devchallenges.io/challenges/rYyhwJAxMfES5jNQ9YsP) project.
 - 🌱 I’m currently learning .NET Core, C#, Unity, TS, React, SQL and Python.
