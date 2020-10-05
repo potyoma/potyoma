@@ -1,6 +1,6 @@
 ### Hi there, I'm Artyom 👋💻
 
-![](image.jpg)
+![](image.png)
 
 
 - 🔭 I’m currently working on [this](https://devchallenges.io/challenges/rYyhwJAxMfES5jNQ9YsP) project.
