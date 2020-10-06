@@ -7,7 +7,7 @@ at first sight. As a hobby I learn game development and try to make some games o
 
 ---
 
-## Feel free to look at my project and write if you have any ideas: <img align="left" width="150" height="150" src="adventure-cat.png">
+## ✨Feel free to look at my projects and write if you have any ideas: <img align="left" width="150" height="150" src="adventure-cat.png">
 
 - 🔭 I’m currently working on [this](https://devchallenges.io/challenges/rYyhwJAxMfES5jNQ9YsP) project. [API](https://github.com/potyoma/MyUnsplashWebApi) and [front end](https://github.com/potyoma/MyUnsplashClient)
 - 🌱 I’m currently learning .NET Core, C#, Unity, TS, React, SQL and Python.
