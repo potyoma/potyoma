@@ -2,14 +2,12 @@
 
 ![](hat-image.png)
 
-I'm currently learning programming to get a job as a software engineer. Web development has taken my interest 
-at first sight. As a hobby I learn game development and try to make some games on my own. 
+The most of my experience is full-stack web development with .NET and React. But also I try to deep dive into the core of CS and Math.
 
 ---
 
 ## ✨Feel free to check out my projects and message me if you have any ideas: <img align="left" width="150" height="150" src="adventure-cat.png">
 
-- 🔭 I’m currently working on [this](https://github.com/potyoma/MyUnsplash) project.
-- 🌱 At the moment I’m learning .NET, C#, Unity, TS, React, SQL and MongoDB.
+- 🌱 At the moment I’m learning full-stack development with JS and TS. I'd like to also learn Rust to enhance my apps capabilities.
 - 📫 How to reach me: just send me an email to artyomnovosyolov254@gmail.com or nov-art-s@ya.ru
-- ⚡ Fun fact: Those dark times of .NET working on Windows only have passed. Relax and use Linux.
+- ⚡ Fun fact: Want to build a truly decentralized system? The nature has already done that. Look at plants.
